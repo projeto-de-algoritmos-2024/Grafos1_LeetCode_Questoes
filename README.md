@@ -7,16 +7,18 @@
 |Matrícula | Aluno |
 | -- | -- |
 | 19/0044128  |  Rafael Kenji Taira |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 22/2032810  |  Felipe Aguiar Hansen |
 
 ## Sobre 
 Descreva os objetivos do seu projeto e como ele funciona. 
+
+Este projeto consiste em três códigos desenvolvidos para resolver questões específicas de grafos da plataforma LeetCode. O objetivo é oferecer soluções para problemas de média e alta dificuldade em grafos, passando por problemas como encontrar o menor caminho, detectar ciclos e calcular a conectividade de nós. Cada código utiliza a linguagem C para resolver o problema específico, aproveitando estruturas de dados otimizadas para garantir desempenho e clareza.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
+**Linguagem**: C<br>
 **Framework**: (caso exista)<br>
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
