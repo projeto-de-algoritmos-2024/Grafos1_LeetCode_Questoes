@@ -10,12 +10,17 @@
 | 22/2032810  |  Felipe Aguiar Hansen |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
 
 Este projeto consiste em três códigos desenvolvidos para resolver questões específicas de grafos da plataforma LeetCode. O objetivo é oferecer soluções para problemas de média e alta dificuldade em grafos, passando por problemas como encontrar o menor caminho, detectar ciclos e calcular a conectividade de nós. Cada código utiliza a linguagem C para resolver o problema específico, aproveitando estruturas de dados otimizadas para garantir desempenho e clareza.
 
+**Problemas**
+|Código | Título | Dificuldade |
+| -- | -- | -- |
+| [797](https://leetcode.com/problems/all-paths-from-source-to-target/description/)| All Paths From Source to Target | Média |
+
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+- Questão 797
+![Print da aceitação do problema 797](./Questão_797/Captura%20de%20tela%20de%202024-11-07%2018-20-38.png)
 
 ## Instalação 
 **Linguagem**: C<br>
