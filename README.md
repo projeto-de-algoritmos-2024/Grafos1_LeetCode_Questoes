@@ -15,9 +15,11 @@ Este projeto consiste em três códigos desenvolvidos para resolver questões es
 
 **Problemas**
 |Código | Título | Dificuldade |
+| -- | -- | -- |
 | [797](https://leetcode.com/problems/all-paths-from-source-to-target/description/)| All Paths From Source to Target | Média |
 | [785](https://leetcode.com/problems/is-graph-bipartite/description/) | Is Graph Bipartite? | Média |
 | [834](https://leetcode.com/problems/sum-of-distances-in-tree/description/) | Sum of Distances in Tree | Difícil |
+| [2608](https://leetcode.com/problems/shortest-cycle-in-a-graph/description/) | Shortest Cycle in a Graph | Difícil |
 
 ## Screenshots
 - Questão 797
@@ -28,6 +30,9 @@ Este projeto consiste em três códigos desenvolvidos para resolver questões es
 
 - Questão 834
 <!-- ![Print da aceitação do problema 834](./Questão_785/Captura%20de%20tela%20de%202024-11-08%2023-57-49.png) -->
+
+- Questão 2608
+![Print da aceitação do problema 2608](./Questão_2608/captura_de_tela_questão2608.png)
 
 ## Instalação 
 **Linguagem**: C<br>
