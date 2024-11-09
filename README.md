@@ -24,6 +24,8 @@ Este projeto consiste em três códigos desenvolvidos para resolver questões es
 
 ![Print da aceitação do problema 797](./Questão_797/Captura%20de%20tela%20de%202024-11-07%2018-20-38.png)
 
+![Print da aceitação do problema 85](./Questão_785/Captura%20de%20tela%20de%202024-11-08%2023-57-49.png)
+
 ## Instalação 
 **Linguagem**: C<br>
 **Framework**: (caso exista)<br>
