@@ -15,11 +15,12 @@ Este projeto consiste em três códigos desenvolvidos para resolver questões es
 
 **Problemas**
 |Código | Título | Dificuldade |
-| -- | -- | -- |
 | [797](https://leetcode.com/problems/all-paths-from-source-to-target/description/)| All Paths From Source to Target | Média |
+| [785](https://leetcode.com/problems/is-graph-bipartite/description/?envType=problem-list-v2&envId=graph&difficulty=MEDIUM%2CHARD) | Is Graph Bipartite? | Média |
 
 ## Screenshots
 - Questão 797
+- Questão 785
 
 ![Print da aceitação do problema 797](./Questão_797/Captura%20de%20tela%20de%202024-11-07%2018-20-38.png)
 
