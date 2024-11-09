@@ -23,20 +23,27 @@ Este projeto consiste em três códigos desenvolvidos para resolver questões es
 
 ## Screenshots
 - Questão 797
+
 ![Print da aceitação do problema 797](./Questão_797/Captura%20de%20tela%20de%202024-11-07%2018-20-38.png)
 
+
 - Questão 785
+
 ![Print da aceitação do problema 785](./Questão_785/Captura%20de%20tela%20de%202024-11-08%2023-57-49.png)
 
+
 - Questão 834
+
 <!-- ![Print da aceitação do problema 834](./Questão_785/Captura%20de%20tela%20de%202024-11-08%2023-57-49.png) -->
 
+
 - Questão 2608
+
 ![Print da aceitação do problema 2608](./Questão_2608/captura_de_tela_questão2608.png)
+
 
 ## Instalação 
 **Linguagem**: C<br>
-**Framework**: (caso exista)<br>
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 ## Uso 
