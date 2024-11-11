@@ -34,7 +34,7 @@ Este projeto consiste em três códigos desenvolvidos para resolver questões es
 
 - Questão 834
 
-<!-- ![Print da aceitação do problema 834](./Questão_785/Captura%20de%20tela%20de%202024-11-08%2023-57-49.png) -->
+![Print da aceitação do problema 834](./Questão_834/Captura%20de%20tela%20de%202024-11-11%2020-50-13.png)
 
 
 - Questão 2608
