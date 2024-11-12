@@ -1,6 +1,6 @@
 # LeetCode_Questoes
 
-**Número da Lista**: X<br>
+**Número da Lista**: 42<br>
 **Conteúdo da Disciplina**: Grafos1<br>
 
 ## Alunos
@@ -42,11 +42,8 @@ Este projeto consiste em três códigos desenvolvidos para resolver questões es
 ![Print da aceitação do problema 2608](./Questão_2608/captura_de_tela_questão2608.png)
 
 
-## Instalação 
-**Linguagem**: C<br>
-
-
 ## Uso 
+**Linguagem**: C<br>
 Para verificar as resoluções das questões, copie a resolução da questão desejada que está dentro de sua respectiva pasta e cole na página de exercício do leetcode que tenha a questão ou no código na seção dos problemas apresentados anteriormente
 
 
