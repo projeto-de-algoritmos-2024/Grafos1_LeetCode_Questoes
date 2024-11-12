@@ -44,13 +44,11 @@ Este projeto consiste em três códigos desenvolvidos para resolver questões es
 
 ## Instalação 
 **Linguagem**: C<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Para verificar as resoluções das questões, copie a resolução da questão desejada que está dentro de sua respectiva pasta e cole na página de exercício do leetcode que tenha a questão ou no código na seção dos problemas apresentados anteriormente
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
 
 
